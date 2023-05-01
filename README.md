@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I’m Aditya Chauhan and My Username is :- @AdiCode07
+- 👀 I’m interested in many types of working such as Programming , Video Editing , Uploading Files etc....
+- 🌱 I’m currently learning C & C++ , Python And Java Programming in Global Nature Care Sangathan's Group Of Institutions as Global Engineering College Jabalpur M.P.
+- 📫 You Can reach me on Instagram.
 
 <!--
 **AdiCode07/AdiCode07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
